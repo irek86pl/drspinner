@@ -1,7 +1,4 @@
 ---
----
-
----
 new_page_extension: html
 auto_deploy: false
 admin_path: ''
@@ -22,7 +19,7 @@ sections:
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
-use_front_matter_path: false
+use_front_matter_path: true
 file_template: ":filename:"
 build:
   preview_env:
